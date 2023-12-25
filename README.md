@@ -1,5 +1,4 @@
-### Hi there 👋
-I am Akhil Rachure
+### Hi 👋, I am Akhil Rachure
 
 <!--
 **akhil-rachure/akhil-rachure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
