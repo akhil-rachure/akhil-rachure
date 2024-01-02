@@ -8,7 +8,7 @@
 * **Languages**: Python, R, SQL, Java
 * **Databases**: MySQL, PostgreSQL, MongoDB
 * **Big Data Technologies**: Spark, ETL, Hadoop, Apache Kafka, Databricks, Apache Airflow, Mage, 
-* **Cloud**: **_AWS_**_ - EC2, RDS, S3, Lambda, IAM, CloudWatch, Redshift, Glue. **_GCP_** - BiqQuery, Compute Engine
+* **Cloud**: **_AWS_**_ - EC2, RDS, S3, Lambda, IAM, CloudWatch, Redshift, Glue. **_GCP_** - BigQuery, Compute Engine
 * **Machine Learning**: Naïve Bayes, Logistic/Linear Regression, SVM, Decision Trees, Boosting & Bagging, K-Means, KNN
 * **Data Science Libraries**: Numpy, Pandas, Scikit-learn, Matplotlib, ggplot
 * **Tools**: Tableau, PowerBI, Looker Studio, Git, Django
