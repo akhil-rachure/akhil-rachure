@@ -1,5 +1,6 @@
 ### Hi 👋, I am Akhil Rachure
 
+-- Data Analytics Enggineering / Data Science graduate student at George Mason University
 <!--
 **akhil-rachure/akhil-rachure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
