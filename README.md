@@ -1,6 +1,9 @@
-### Hi 👋, I am Akhil Rachure
+## Hi 👋, I am Akhil Rachure
 
--- Data Analytics Enggineering / Data Science graduate student at George Mason University
+🎓 A Data Analytics Engineering / Data Science graduate student at George Mason University. <br /> <br />
+🔬 My area of focus are: Data Engineering, Data Analytics, Machine Learning, NLP <br /> <br />
+💻 Connect with me: [LinkedIn](https://www.linkedin.com/in/akhil-rachure/) <br /> <br />
+
 <!--
 **akhil-rachure/akhil-rachure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
