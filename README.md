@@ -4,6 +4,14 @@
 🔬 My area of focus are: Data Engineering, Data Analytics, Machine Learning, NLP <br /> <br />
 💻 Connect with me: [LinkedIn](https://www.linkedin.com/in/akhil-rachure/) <br /> <br />
 
+### My Skillset
+* Languages:
+* Databases:
+* Big Data Technologies:
+* Cloud:
+* Machine Learning: Naïve Bayes, Logistic/Linear Regression, SVM, Decision Trees, Boosting & Bagging, K-Means, KNN
+* Data Science Libraries: Numpy, Pandas, Scikit-learn, Matplotlib, ggplot
+  
 <!--
 **akhil-rachure/akhil-rachure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
