@@ -1,4 +1,4 @@
-## Hi 👋, I am Akhil Rachure
+## Hi, I am Akhil Rachure 👋
 
 🎓 A Data Analytics Engineering / Data Science graduate student at George Mason University. <br /> <br />
 🔬 My area of focus are: Data Engineering, Data Analytics, Machine Learning, NLP <br /> <br />
