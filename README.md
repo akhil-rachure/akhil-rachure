@@ -12,7 +12,7 @@
 * **Machine Learning**: Naïve Bayes, Logistic/Linear Regression, SVM, Decision Trees, Boosting & Bagging, K-Means, KNN
 * **Data Science Libraries**: Numpy, Pandas, Scikit-learn, Matplotlib, ggplot
 * **Tools**: Tableau, PowerBI, Looker Studio, Git, Django
-* **Techniques**: Data Cleaning, Data Visualization, Data Extraction, Exploratory Data Analysis, Statistical Analysis, Data Modeling, Data pipeline design, Schema Design, NLP, REST APIs, Predictive Modeling, A/B Testing
+* **Techniques**: Data Cleaning, Data Visualization, Data Extraction, Exploratory Data Analysis, MS Excel, Statistical Analysis, Data Modeling, Data pipeline design, Schema Design, NLP, REST APIs, Predictive Modeling, A/B Testing
   
 <!--
 **akhil-rachure/akhil-rachure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
